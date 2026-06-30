@@ -1,0 +1,6 @@
+s02_food_recognition/.env
+s06_analytics/.env
+s02_food_recognition/venv/
+s06_analytics/venv/
+**/__pycache__/
+*.pyc
